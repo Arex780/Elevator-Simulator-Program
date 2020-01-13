@@ -1,0 +1,20 @@
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Laboratorium\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\binar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
